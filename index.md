@@ -18,22 +18,9 @@ Subsidy halves every 1051k blocks (~3 years)
 Difficulty re-target: every block (Dark Gravity Wave v3)
 not premined
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
 ```
 
-For more details see [Download](https://github.com/umarucoin/umrcoin/releases).
+ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).
 
 ### Jekyll Themes
 
