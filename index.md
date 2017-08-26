@@ -29,4 +29,5 @@ not premined
 
 ### Support or Contact
 
-under construction.
+under construction.<br>
+2chスレッド→ [2ch.net](https://fate.2ch.net/test/read.cgi/cryptocoin/1499216178/l50)
