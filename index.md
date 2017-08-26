@@ -30,10 +30,10 @@ not premined
 
 **Bold** and _Italic_ and `Code` text
 
-[Download](https://github.com/umarucoin/umrcoin/releases)
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Download](https://github.com/umarucoin/umrcoin/releases).
 
 ### Jekyll Themes
 
