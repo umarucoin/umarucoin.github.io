@@ -21,7 +21,10 @@ not premined
 
 ### 概要
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umarucoin/umarucoin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<b>"待"ってたぜェ！！ この"瞬間"をよォ！！</b><br><br>
+<s>UMRcoin</s>一条武丸サンは一条グループの御曹司として魍魎の勢力拡大に尽力し、<br>
+私立聖蘭高校に自由の学風を築くために多大な功績を残した人です。<br>
+どうか武丸サンを怒らせないで下さい。
 
 ### Support or Contact
 
