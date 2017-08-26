@@ -7,8 +7,8 @@
 UMRcoinはMonacoinのシミュレーターのようなものです。<br>
 基本的にMonacoinと同じですがDNSseeがないため初期ノードを手動で追加する必要があります。<br>
 example)<br>
-　umrcoin-cli addnode 133.130.66.167 add
-
+　umrcoin-cli addnode 133.130.66.167 add<br>
+　（133.130.66.167はコンパイル用サーバーを兼ねています）
 ```markdown
 Algorithm: Lyra2RE(v2)
 Block time: 1.5 minutes
@@ -22,7 +22,7 @@ not premined
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).
 
-### Jekyll Themes
+### 概要
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/umarucoin/umarucoin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
