@@ -3,7 +3,7 @@
 ### UMRcoin
 
 UMRcoinはMonacoinのシミュレーターのようなものです。<br>
-基本的にMonacoinと同じですがDNSseeがないため初期ノードを手動で追加する必要があります。<br>
+基本的にMonacoinと同じですがDNSseedがないため初期ノードを手動で追加する必要があります。<br>
 example)<br>
 　umrcoin-cli addnode 133.130.66.167 add<br>
 　（133.130.66.167はコンパイル用サーバーを兼ねています）
@@ -15,7 +15,6 @@ Block reward: 50 UMR(August 2017)
 Subsidy halves every 1051k blocks (~3 years)
 Difficulty re-target: every block (Dark Gravity Wave v3)
 not premined
-
 ```
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).
