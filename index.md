@@ -1,4 +1,4 @@
-## OTAKUcoi改めUMRcoin
+## OTAKUcoin 改め UMRcoin
 
 ### UMRcoin
 
