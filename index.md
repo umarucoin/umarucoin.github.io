@@ -4,7 +4,7 @@
 
 UMRcoinはMonacoinのシミュレーターのようなものです。<br>
 基本的にMonacoinと同じですがDNS seedサーバーがないため接続ノードを手動で追加する必要があります。<br>
-まともに機能させるためには8ノードぐらいは追加すべきでしょう。<br>
+まともに機能させるためにはUPnP設定をONにして8ノードぐらいは追加すべきでしょう。<br>
 Ubuntu example)<br>
 　$ umrcoind -daemon<br>
 　$ umrcoin-cli addnode 133.130.66.167 add<br>
