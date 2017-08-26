@@ -4,8 +4,8 @@
 
 ### UMRcoin
 
-UMRcoinはMonacoinのシミュレーターのようなものです。
-基本的にMonacoinと同じですがDNSseedないため初期ノードを手動で追加する必要があります。
+UMRcoinはMonacoinのシミュレーターのようなものです。<br>
+基本的にMonacoinと同じですがDNSseeがないため初期ノードを手動で追加する必要があります。
 
 ```markdown
 Algorithm: Lyra2RE(v2)
