@@ -5,9 +5,16 @@
 ### UMRcoin
 
 UMRcoinはMonacoinのシミュレーターのようなものです。
+基本的にMonacoinと同じですがDNSseedないため初期ノードを手動で追加する必要があります。
 
 ```markdown
-Syntax highlighted code block
+Algorithm: Lyra2RE(v2)
+Block time: 1.5 minutes
+Block reward: 50 MONA(August 2017)
+105,120,000 total coins
+Subsidy halves every 1051k blocks (~3 years)
+Difficulty re-target: every block (Dark Gravity Wave v3)
+not premined
 
 # Header 1
 ## Header 2
