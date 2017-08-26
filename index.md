@@ -30,4 +30,4 @@ not premined
 ### Support or Contact
 
 under construction.<br>
-2chスレッド→ [2ch.net](https://fate.2ch.net/test/read.cgi/cryptocoin/1499216178/l50)
+2chスレッド→ [橋本環奈「ごめーん！環奈今日唐揚げのレモン買うの忘れたけん代わりにオシッコかけたとよー！」](https://fate.2ch.net/test/read.cgi/cryptocoin/1499216178/l50)
