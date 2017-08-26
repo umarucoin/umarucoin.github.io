@@ -1,6 +1,4 @@
-## OTAKUcoin
-
-"待"ってたぜェ！！ この"瞬間"をよォ！！
+## OTAKUcoi改めUMRcoin
 
 ### UMRcoin
 
