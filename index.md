@@ -5,7 +5,9 @@
 ### UMRcoin
 
 UMRcoinはMonacoinのシミュレーターのようなものです。<br>
-基本的にMonacoinと同じですがDNSseeがないため初期ノードを手動で追加する必要があります。
+基本的にMonacoinと同じですがDNSseeがないため初期ノードを手動で追加する必要があります。<br>
+example)<br>
+ umrcoin-cli addnode 133.130.66.167 add
 
 ```markdown
 Algorithm: Lyra2RE(v2)
