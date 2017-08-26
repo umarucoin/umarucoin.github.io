@@ -18,7 +18,7 @@ not premined
 ```
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).<br>
-ソースコード→ [Source](https://github.com/umarucoin/umrcoin).
+ソースコード→ [Source code](https://github.com/umarucoin/umrcoin).
 
 ### 概要
 
