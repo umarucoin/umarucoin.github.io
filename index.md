@@ -7,7 +7,7 @@ UMRcoinはMonacoinのシミュレーターのようなものです。<br>
 まともに機能させるためにはUPnP設定をONにして8ノードぐらいは追加すべきでしょう。<br>
 採掘の検証回数は101回なので採掘したコインが使えるようになるまでに自分を含めて更に100回の検証(採掘等)が必要です。<br>
 Ubuntu example)<br>
-　$ umrcoind -daemon<br>
+　$ umrcoind -daemon -upnp<br>
 　$ umrcoin-cli addnode 133.130.66.167 add<br>
 　（133.130.66.167はコンパイル用サーバーを兼ねています）
 ```markdown
