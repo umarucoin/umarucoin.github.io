@@ -18,6 +18,8 @@ Block reward: 50 UMR(August 2017)
 Subsidy halves every 1051k blocks (~3 years)
 Difficulty re-target: every block (Dark Gravity Wave v3)
 not premined
+P2P Port: 9441
+RPC Port: 9442
 ```
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).<br>
