@@ -24,7 +24,7 @@ RPC Port: 9442
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).<br>
 ソースコード→ [Source code](https://github.com/umarucoin/umrcoin).<br>
-マイニンガー太郎作→ [しがないどころか丸出しノーセキュリティーfaucet](http://133.130.66.167:25252/node.php).<br>
+おまけサイト→ [しがないどころか丸出しノーセキュリティーfaucet](http://133.130.66.167:25252/node.php).<br>
 
 ### 概要
 
