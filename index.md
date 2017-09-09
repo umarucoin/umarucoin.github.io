@@ -23,6 +23,7 @@ RPC Port: 9442
 ```
 
 ダウンロードはこちらです→ [Download](https://github.com/umarucoin/umrcoin/releases).<br>
+マイニングツールはこちらです→ [Mining Tool](https://www.umaru-coin.coom/).<br>
 ソースコード→ [Source code](https://github.com/umarucoin/umrcoin).<br>
 おまけサイト→ [しがないどころか丸出しノーセキュリティーfaucet](http://v133-130-66-167.myvps.jp:25252/node2.php).<br>
 
