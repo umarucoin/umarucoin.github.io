@@ -26,7 +26,7 @@ RPC Port: 9442
 マイニングツールはこちらです→ [Mining Tool](https://www.umaru-coin.com/).<br>
 ソースコード→ [Source code](https://github.com/umarucoin/umrcoin).<br>
 Blockchain Explorer→ [Powered by RPC Ace](http://v133-130-66-167.myvps.jp:25252/blockexplorer.php)<br>
-Monacoinも当たるおまけサイト→ [しがないどころか丸出しノーセキュリティーfaucet](http://v133-130-66-167.myvps.jp:25252/node2.php).<br>
+Monacoinも当たるおまけサイト→ [しがないどころか丸出しノーセキュリティーfaucet](http://v133-130-66-167.myvps.jp:25252/node.php).<br>
 
 ### 概要
 
